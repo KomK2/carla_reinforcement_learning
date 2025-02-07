@@ -83,7 +83,8 @@ To see the trained model in action, check out the inference video below:
   <source src="https://www.github.com/KomK2/carla_reinforcement_learning/main/assets/inference.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
-[📺 Watch the Inference Video](https://raw.githubusercontent.com/KomK2/carla_reinforcement_learning/main/assets/inference.webm)
+
+<iframe src="https://drive.google.com/file/d/11mpc7Nw5Pek24NwhTL0JRmaeZgCkf_1F/view?usp=sharing" width="800" height="450"></iframe>
 
 
 ## 🔮 Future Work  
