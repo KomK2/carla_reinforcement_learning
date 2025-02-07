@@ -77,8 +77,8 @@ This project explores the application of **Proximal Policy Optimization (PPO)** 
 
 ## 📺 Inference Video  
 To see the trained model in action, check out the inference video below:  
+[![Inference Video](assets/carla_sim.png)](https://drive.google.com/file/d/11mpc7Nw5Pek24NwhTL0JRmaeZgCkf_1F/view?usp=sharing)  
 [Inference Video on Google Drive](https://drive.google.com/file/d/11mpc7Nw5Pek24NwhTL0JRmaeZgCkf_1F/view?usp=sharing)
-
 
 
 ## 🔮 Future Work  
@@ -90,5 +90,4 @@ To see the trained model in action, check out the inference video below:
 ## 📜 References  
 - CARLA Simulator: [CARLA GitHub](https://github.com/carla-simulator/carla)  
 - PPO Algorithm: [Schulman et al., 2017](https://arxiv.org/abs/1707.06347)  
-
 ---
