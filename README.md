@@ -80,7 +80,7 @@ To see the trained model in action, check out the inference video below:
 [Inference Video on Google Drive](https://drive.google.com/file/d/11mpc7Nw5Pek24NwhTL0JRmaeZgCkf_1F/view?usp=sharing)
 
 <video width="800" controls>
-  <source src="https://raw.githubusercontent.com/KomK2/carla_reinforcement_learning/main/assets/inference.webm" type="video/webm">
+  <source src="https://www.github.com/KomK2/carla_reinforcement_learning/main/assets/inference.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
