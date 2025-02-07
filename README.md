@@ -78,7 +78,11 @@ This project explores the application of **Proximal Policy Optimization (PPO)** 
 ## 📺 Inference Video  
 To see the trained model in action, check out the inference video below:
 
-[![Inference Video](assets/inference.webm)](assets/inference.webm)
+<video width="800" controls>
+  <source src="assets/inference.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+
 
 ## 🔮 Future Work  
 - **Transfer learning for real-world deployment.**  
