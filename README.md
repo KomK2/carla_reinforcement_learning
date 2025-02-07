@@ -76,7 +76,8 @@ This project explores the application of **Proximal Policy Optimization (PPO)** 
 - **Failure Cases:** Identified challenges in intersection handling and unseen environments.  
 
 ## 📺 Inference Video  
-To see the trained model in action, check out the inference video below:
+To see the trained model in action, check out the inference video below:  
+[Inference Video on Google Drive](https://drive.google.com/file/d/11mpc7Nw5Pek24NwhTL0JRmaeZgCkf_1F/view?usp=sharing)
 
 <video width="800" controls>
   <source src="assets/inference.webm" type="video/webm">
