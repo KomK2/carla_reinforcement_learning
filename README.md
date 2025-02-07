@@ -80,7 +80,7 @@ To see the trained model in action, check out the inference video below:
 [Inference Video on Google Drive](https://drive.google.com/file/d/11mpc7Nw5Pek24NwhTL0JRmaeZgCkf_1F/view?usp=sharing)
 
 <video width="800" controls>
-  <source src="assets/inference.webm" type="video/webm">
+  <source src="https://raw.githubusercontent.com/KomK2/carla_reinforcement_learning/main/assets/inference.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
@@ -94,6 +94,5 @@ To see the trained model in action, check out the inference video below:
 ## 📜 References  
 - CARLA Simulator: [CARLA GitHub](https://github.com/carla-simulator/carla)  
 - PPO Algorithm: [Schulman et al., 2017](https://arxiv.org/abs/1707.06347)  
-- Deep RL for AVs: [Recent Research](https://arxiv.org/)  
 
 ---
