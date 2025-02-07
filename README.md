@@ -80,7 +80,7 @@ To see the trained model in action, check out the inference video below:
 [Inference Video on Google Drive](https://drive.google.com/file/d/11mpc7Nw5Pek24NwhTL0JRmaeZgCkf_1F/view?usp=sharing)
 
 
-<iframe src="https://www.youtube.com/watch?v=oqxAJKy0ii4" width="800" height="450"></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/oqxAJKy0ii4" frameborder="0" allowfullscreen></iframe>
 
 
 ## 🔮 Future Work  
