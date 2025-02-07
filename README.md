@@ -92,5 +92,3 @@ To see the trained model in action, check out the inference video below:
 - Deep RL for AVs: [Recent Research](https://arxiv.org/)  
 
 ---
-This README provides all essential information about your project while keeping it structured and user-friendly. 🚀
- 
